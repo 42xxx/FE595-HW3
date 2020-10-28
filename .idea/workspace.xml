@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc926194-4ef0-4632-b9be-50bdc44c80cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jSXxRjSrckUQiIHVJ9jRvvSinB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.find 10 commonest">
+    <configuration name="find 10 commonest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/find 10 commonest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="merage_dataset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/merage_dataset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sentiment analysis" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="HW3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sentiment analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.find 10 commonest" />
+        <item itemvalue="Python.sentiment analysis" />
+        <item itemvalue="Python.merage_dataset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc926194-4ef0-4632-b9be-50bdc44c80cb" name="Default Changelist" comment="" />
+      <created>1603798712639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603798712639</updated>
+      <workItem from="1603798716411" duration="2525000" />
+      <workItem from="1603853925761" duration="7783000" />
+      <workItem from="1603867559590" duration="2746000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom" timestamp="1603870927886">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.726@0.23.1280.726" timestamp="1603866839249" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.727@0.23.1280.727" timestamp="1603870755965" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.728@0.23.1280.728" timestamp="1603869650257" />
+    <state width="1238" height="179" key="GridCell.Tab.0.bottom/0.23.1280.729@0.23.1280.729" timestamp="1603870927886" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center" timestamp="1603870927884">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.726@0.23.1280.726" timestamp="1603866839246" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.727@0.23.1280.727" timestamp="1603870755964" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.728@0.23.1280.728" timestamp="1603869650256" />
+    <state width="1238" height="179" key="GridCell.Tab.0.center/0.23.1280.729@0.23.1280.729" timestamp="1603870927884" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left" timestamp="1603870927884">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.726@0.23.1280.726" timestamp="1603866839246" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.727@0.23.1280.727" timestamp="1603870755963" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.728@0.23.1280.728" timestamp="1603869650256" />
+    <state width="1238" height="179" key="GridCell.Tab.0.left/0.23.1280.729@0.23.1280.729" timestamp="1603870927884" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right" timestamp="1603870927885">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.726@0.23.1280.726" timestamp="1603866839247" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.727@0.23.1280.727" timestamp="1603870755965" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.728@0.23.1280.728" timestamp="1603869650257" />
+    <state width="1238" height="179" key="GridCell.Tab.0.right/0.23.1280.729@0.23.1280.729" timestamp="1603870927885" />
+    <state width="640" height="360" key="XDebugger.FullValuePopup" timestamp="1603853825310">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state width="640" height="358" key="XDebugger.FullValuePopup/0.23.1280.724@0.23.1280.724" timestamp="1603799319433" />
+    <state width="640" height="358" key="XDebugger.FullValuePopup/0.23.1280.726@0.23.1280.726" timestamp="1603799166208" />
+    <state width="640" height="360" key="XDebugger.FullValuePopup/0.23.1280.728@0.23.1280.728" timestamp="1603853825310" />
+    <state x="289" y="106" width="700" height="530" key="recent.locations.popup" timestamp="1603862451461">
+      <screen x="0" y="23" width="1280" height="726" />
+    </state>
+    <state x="289" y="106" width="700" height="530" key="recent.locations.popup/0.23.1280.726@0.23.1280.726" timestamp="1603862451461" />
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1603869788340">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup/0.23.1280.729@0.23.1280.729" timestamp="1603869788340" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HW3$test01.coverage" NAME="merage_dataset Coverage Results" MODIFIED="1603867211519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW3$sentiment_analysis.coverage" NAME="sentiment analysis Coverage Results" MODIFIED="1603870921930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW3$merage_dataset.coverage" NAME="merage_dataset Coverage Results" MODIFIED="1603870894849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/HW3$find_10_commonest.coverage" NAME="find 10 commonest Coverage Results" MODIFIED="1603870927866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
