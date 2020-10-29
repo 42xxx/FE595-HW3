@@ -46,7 +46,7 @@ def meragedf(dfName: list):
 
 if __name__ == "__main__":
     dfS = txt_file("./data/shiraz.txt")
-    dfM = csv_file("./data/companies data2.csv")
+    dfM = csv_file("./data/companies_data.csv")
     dfF = csv_file("./data/A2_result.csv")
     dfY = csv_file("./data/collected_info (1).csv")
     combined_df = meragedf([dfS, dfF, dfM, dfY])
